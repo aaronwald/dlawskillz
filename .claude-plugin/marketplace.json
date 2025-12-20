@@ -9,8 +9,8 @@
   },
   "plugins": [
     {
-      "name": "core",
-      "source": "./plugins/core",
+      "name": "dlaw",
+      "source": "./plugins/dlaw",
       "description": "Core skills: task planning, PR workflow, session notes, and git branching",
       "version": "1.0.0"
     }
