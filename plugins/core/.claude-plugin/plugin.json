@@ -1,6 +1,6 @@
 {
-  "name": "core",
-  "description": "Core skills for project workflow: task planning, PR management, session notes, and git branching",
+  "name": "dlaw",
+  "description": "Dlaw core skills for project workflow: task planning, PR management, session notes, and git branching",
   "version": "1.0.0",
   "author": {
     "name": "dlaw"
