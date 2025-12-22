@@ -7,9 +7,8 @@ description: Stage branch in github
 ## Instructions
 
 1. Name branches feature/<feature_name>
-1. Create branch and commit all changes.
+1. Make sure all tests pass.
+1. Make sure existing runbooks and documendated updated.
 1. Creata pr with gh tool for review.
 
-
 ## Examples
-
