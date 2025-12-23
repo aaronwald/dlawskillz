@@ -6,3 +6,4 @@
 1. Read the TODO.md
 1. When we commit mark completed tasks in TODO so we can resume.
 1. Read build instructions from CLAUDE.md
+1. Limit freelancing unless we are in a brainstorming session.
