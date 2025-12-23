@@ -5,3 +5,4 @@
 1. Read the dev environment setup in DEVELOPER.md.
 1. Read the TODO.md
 1. When we commit mark completed tasks in TODO so we can resume.
+1. Read build instructions from CLAUDE.md
